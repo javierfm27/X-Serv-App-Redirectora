@@ -2,7 +2,6 @@
 """
     Servidor que redirecciona permanentemente
     Javier Fernández Morata
-    Aplicacion, que informa en el cuerpo a que URL va a ser redireccionado
 """
 import socket
 import random
